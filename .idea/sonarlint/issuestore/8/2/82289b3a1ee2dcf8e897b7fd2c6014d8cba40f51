@@ -1,0 +1,8 @@
+
+€
+java:S1854"8Remove this useless assignment to local variable "arr1".(´³´—ýÿÿÿÿ8ËòÜ¿å1J$dcb58039-8b7d-46df-812d-b68b32aec998
+q
+java:S1481")Remove this unused "arr1" local variable.(´³´—ýÿÿÿÿ8ÌòÜ¿å1J$8681a844-c4e8-499c-92b8-8f3fb3a79894
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8ÌòÜ¿å1J$6d888325-e288-43e5-88b5-711d24a31a10
+~	java:S125	"<This block of commented-out lines of code should be removed.(Ì®“’8ÍòÜ¿å1J$f1496554-e29f-4693-b609-5a0a17e24a29
+~	java:S125#"<This block of commented-out lines of code should be removed.(“¦þ8ÍòÜ¿å1J$728aeb40-d402-4522-b550-169ae2cc0f0d

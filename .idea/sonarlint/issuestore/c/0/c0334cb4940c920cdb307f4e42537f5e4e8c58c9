@@ -1,0 +1,43 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(›ÄõÕøÿÿÿÿ8½’—¾ã1
+[
+java:S1854"9Remove this useless assignment to local variable "rahul".(ƒ½õÃûÿÿÿÿ8à‡¯¾ã1
+^
+java:S1854"<Remove this useless assignment to local variable "students".(ôÌ³ıÿÿÿÿ8à‡¯¾ã1
+[
+java:S1854"9Remove this useless assignment to local variable "marks".(ª³€ÿûÿÿÿÿ8à‡¯¾ã1
+U
+java:S1854"8Remove this useless assignment to local variable "name".(Ï¨ú³8à‡¯¾ã1
+S
+java:S1854"7Remove this useless assignment to local variable "rno".(›ª®B8à‡¯¾ã1
+[
+java:S1854	"9Remove this useless assignment to local variable "names".(ÈÓÕøÿÿÿÿ8á‡¯¾ã1
+X
+java:S1854";Remove this useless assignment to local variable "numbers".(‰ò£ç8á‡¯¾ã1
+I
+java:S1481",Remove this unused "numbers" local variable.(‰ò£ç8â‡¯¾ã1
+L
+java:S1481	"*Remove this unused "names" local variable.(ÈÓÕøÿÿÿÿ8â‡¯¾ã1
+]	java:S125"<This block of commented-out lines of code should be removed.(¬ƒèÇşÿÿÿÿ8ã‡¯¾ã1
+D
+java:S1481"(Remove this unused "rno" local variable.(›ª®B8ã‡¯¾ã1
+F
+java:S1481")Remove this unused "name" local variable.(Ï¨ú³8ã‡¯¾ã1
+L
+java:S1481"*Remove this unused "marks" local variable.(ª³€ÿûÿÿÿÿ8ä‡¯¾ã1
+O
+java:S1481"-Remove this unused "students" local variable.(ôÌ³ıÿÿÿÿ8ä‡¯¾ã1
+X	java:S125"<This block of commented-out lines of code should be removed.(ÇŒ±ñ8ä‡¯¾ã1
+L
+java:S1481"*Remove this unused "rahul" local variable.(ƒ½õÃûÿÿÿÿ8æ‡¯¾ã1
+G	java:S106""+Replace this use of System.out by a logger.(ÊŞé‚8ç‡¯¾ã1
+X	java:S125"<This block of commented-out lines of code should be removed.(¦çÚµ8è‡¯¾ã1
+]	java:S125"<This block of commented-out lines of code should be removed.(á¶Èæÿÿÿÿÿ8è‡¯¾ã1
+G	java:S106#"+Replace this use of System.out by a logger.(¶©ğÕ8é‡¯¾ã1
+L	java:S106$"+Replace this use of System.out by a logger.( Ó˜Ñûÿÿÿÿ8ë‡¯¾ã1
+L	java:S106'"+Replace this use of System.out by a logger.(çá¯úÿÿÿÿ8ì‡¯¾ã1
+L	java:S106*"+Replace this use of System.out by a logger.(ûßòÒùÿÿÿÿ8í‡¯¾ã1
+L	java:S1061"+Replace this use of System.out by a logger.(‰¸Øıÿÿÿÿ8ï‡¯¾ã1
+G	java:S106@"+Replace this use of System.out by a logger.(¶‹Ş8ô‡¯¾ã1
+]	java:S125P"<This block of commented-out lines of code should be removed.(ª®·Ìşÿÿÿÿ8û‡¯¾ã1
+W	java:S125U"<This block of commented-out lines of code should be removed.(×éºs8ü‡¯¾ã1

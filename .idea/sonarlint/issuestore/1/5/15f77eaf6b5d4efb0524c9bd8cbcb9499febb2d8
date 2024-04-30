@@ -1,0 +1,13 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(È Ÿ8€çğ´ã1
+i	java:S101&"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ËáÔÔ8€çğ´ã1
+L	java:S106
+"+Replace this use of System.out by a logger.(¨ûÍ‚ùÿÿÿÿ8Œçğ´ã1
+L	java:S106""+Replace this use of System.out by a logger.(ñÚˆüÿÿÿÿ8çğ´ã1
+X	java:S125"<This block of commented-out lines of code should be removed.(äÆ¾Ó8çğ´ã1
+L	java:S106."+Replace this use of System.out by a logger.(¶š‚ÿÿÿÿÿ8çğ´ã1
+L	java:S1069"+Replace this use of System.out by a logger.(…©¶çùÿÿÿÿ8‘çğ´ã1
+G	java:S106<"+Replace this use of System.out by a logger.(±²Ê8‘çğ´ã1
+G	java:S106?"+Replace this use of System.out by a logger.(âÔ€È8‘çğ´ã1
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8’çğ´ã1
