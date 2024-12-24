@@ -65,8 +65,6 @@ F
 src/kk/binay2d/ex.java,6\7\674cfe8e7ed64188f6630f71a1b0e539770acf1b
 U
 %src/String_StringBuilder/example.java,2\f\2f306dffa3e58617c6086d5b7626e790d6aff1c0
-E
-src/kk/Recursion.java,b\4\b45bedfb0bb7079f054584a6b40b15d7cb9a2771
 O
 src/kk/Recursion/Recursion.java,b\8\b843f0325e0ecad5c1155f3ec6da04850c51800c
 Å
@@ -143,8 +141,12 @@ Q.idea/sonarlint/securityhotspotstore/f/1/f1bef2365604481aef55aa021c2f9d255bf861
 Å
 Q.idea/sonarlint/securityhotspotstore/b/8/b843f0325e0ecad5c1155f3ec6da04850c51800c,b\0\b0de0d4380ee532fbc60eebbda089c1e7c4c3d6b
 Å
-Q.idea/sonarlint/securityhotspotstore/b/4/b45bedfb0bb7079f054584a6b40b15d7cb9a2771,6\5\65e83f4cf4eb30906b9c83c5e90ac22c259e5ef1
-Å
 Q.idea/sonarlint/securityhotspotstore/2/f/2f306dffa3e58617c6086d5b7626e790d6aff1c0,d\a\dab7e72808381a50bbec9479bfb4be26f6f31c99
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+S
+#src/kk/Recursion/binary_search.java,f\6\f67847445e3edc07142404ec9993771055a25002
+N
+src/collection/array_List.java,4\2\4261f28fe6c5348fa5979954ac7fd75f4d3b24e3
+M
+src/multithreading/intro.java,9\f\9fb7ad252e2c6aafccac0a14e32bd24b5780ee82

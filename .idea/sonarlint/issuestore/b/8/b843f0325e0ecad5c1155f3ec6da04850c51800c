@@ -1,10 +1,12 @@
 
-”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Úª…Ôøÿÿÿÿ8œ¯ßûò1J$2838249d-f970-483e-b153-ac4680a910bb
-”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(öˆ‡åşÿÿÿÿ8¯ßûò1J$73ebdb0b-a123-44cc-9208-ae735e25c78f
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†·²”ûÿÿÿÿ8Ÿ¯ßûò1J$534002d9-8815-41bc-9373-c7e46cd03010
-r	java:S106"+Replace this use of System.out by a logger.(¢Êù¥ùÿÿÿÿ8ª¯ßûò1J$17aee959-5aac-48b8-9f67-8d2f4015bcd9
-m	java:S106"+Replace this use of System.out by a logger.(†™ñ‹8«¯ßûò1J$428e5608-0763-451b-8042-d0873c784928
-Ä
-java:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8­¯ßûò1J$e942c6e2-8efd-4076-bf77-5f2d54a00879
-Ä
-java:S1186#"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(”‹É8­¯ßûò1J$3a4f0e54-89e7-4f0e-89a0-6235e61d25cf
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Úª…Ôøÿÿÿÿ8ù«Áüò1J$2ab57610-ad78-4b6a-98d8-be7621483c0d
+”	java:S101""MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(“Ø¹íÿÿÿÿÿ8ù«Áüò1J$16793a56-c1bb-4497-97ea-475386104aa9
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†·²”ûÿÿÿÿ8û«Áüò1J$97052ab9-3242-4349-997a-3fda27787e73
+r	java:S106"+Replace this use of System.out by a logger.(¢Êù¥ùÿÿÿÿ8…¬Áüò1J$b9833ad4-7883-4415-88cf-a7d47610af4c
+m	java:S106"+Replace this use of System.out by a logger.(†™ñ‹8†¬Áüò1J$f80a4ac5-0431-44f1-a610-17513a5fc611
+m	java:S106'"+Replace this use of System.out by a logger.(áïõª8‡¬Áüò1J$ad78059a-e814-4449-81eb-580154dc71e2
+r	java:S106)"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Š¬Áüò1J$6cc901d2-147c-4e32-901f-a337dfbfab04
+m	java:S106+"+Replace this use of System.out by a logger.(®µüĞ8‹¬Áüò1J$3f070d1c-1911-4f50-9dcc-cd082f51f87e
+r	java:S106-"+Replace this use of System.out by a logger.(îì¹Œûÿÿÿÿ8‹¬Áüò1J$6de5a0a3-5942-4f5b-b1b0-5b2d7455b5a9
+r	java:S1064"+Replace this use of System.out by a logger.(²¢÷ûúÿÿÿÿ8ˆÂüò1J$d110098d-a070-42d8-b7c5-6cfa86f74e77
+r	java:S1069"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8İÔÂüò1J$03b5f5fa-900e-45fe-9ebf-143c4283fecd
